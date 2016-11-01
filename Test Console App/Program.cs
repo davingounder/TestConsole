@@ -15,8 +15,9 @@ namespace Test_Console_App
            Console.WriteLine("This is a new console app");
            Console.WriteLine("This is a new console app #2");
            Console.WriteLine("This is a new console app #3");
-           Console.WriteLine("This is a new console app #3");
-           Console.ReadLine();
+           Console.WriteLine("This is a new console app #4");
+           Console.WriteLine("This is a new console app #5");
+            Console.ReadLine();
 
 
         }
